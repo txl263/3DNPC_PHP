@@ -46,39 +46,36 @@ while ($row = mysqli_fetch_array($result))
     `3DNPC_english_chinese`.DescCN as DescCN,
     ".$row["EditorID"].".`ID`
     FROM
-    ".$row["EditorID"]."  LEFT JOIN 3DNPC_english_chinese on ".$row["EditorID"].".`TOPIC TEXT`=`3DNPC_english_chinese`.Source
+    ".$row["EditorID"]."  RIGHT JOIN 3DNPC_english_chinese on ".$row["EditorID"].".`TOPIC TEXT`=`3DNPC_english_chinese`.Source
     where
     ".$row["EditorID"].".`TOPIC TEXT` is not null
     and ".$row["EditorID"].".`TOPIC TEXT` != ''
-    and right(".$row["EditorID"].".TOPICINFO,8) != substring(".$row["EditorID"].".FILENAME,-10,8)
     )
 
-    UNION
+    UNION ALL
 
     (SELECT '0' as StrList,
     `".$row["EditorID"]."`.`PROMPT` as Source,
     `3DNPC_english_chinese`.DescCN as DescCN,
     ".$row["EditorID"].".`ID`
     FROM
-    ".$row["EditorID"]."  LEFT JOIN 3DNPC_english_chinese on ".$row["EditorID"].".`PROMPT`=`3DNPC_english_chinese`.Source
+    ".$row["EditorID"]."  RIGHT JOIN 3DNPC_english_chinese on ".$row["EditorID"].".`PROMPT`=`3DNPC_english_chinese`.Source
     where
     ".$row["EditorID"].".`PROMPT` is not null
     and ".$row["EditorID"].".`PROMPT` != ''
-    and right(".$row["EditorID"].".TOPICINFO,8) != substring(".$row["EditorID"].".FILENAME,-10,8)
     )
 
-    UNION
+    UNION ALL
 
     (SELECT '2' as StrList,
     `".$row["EditorID"]."`.`RESPONSE TEXT` as Source,
     `3DNPC_english_chinese`.DescCN as DescCN,
     ".$row["EditorID"].".`ID`
     FROM
-    ".$row["EditorID"]."  LEFT JOIN 3DNPC_english_chinese on ".$row["EditorID"].".`RESPONSE TEXT`=`3DNPC_english_chinese`.Source
+    ".$row["EditorID"]."  RIGHT JOIN 3DNPC_english_chinese on ".$row["EditorID"].".`RESPONSE TEXT`=`3DNPC_english_chinese`.Source
     where
     ".$row["EditorID"].".`RESPONSE TEXT` is not null
     and ".$row["EditorID"].".`RESPONSE TEXT` != ''
-    and right(".$row["EditorID"].".TOPICINFO,8) != substring(".$row["EditorID"].".FILENAME,-10,8)
     )
     ";
 

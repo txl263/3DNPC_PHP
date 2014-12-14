@@ -105,7 +105,7 @@ if (!$result)
 
 $XML->appendChild($root);				// 最重要的一步：将根节点添加到文档里面
 
-$XML->save($EdirotID.".xml");				// 保存 XML 文档，路径是相对路径
+$XML->save("XML/".$EdirotID.".xml");				// 保存 XML 文档，路径是相对路径
 
 }
 
