@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="2">
+      <Source>Our hero, our hero, claims a warrior's heart!</Source>
+      <Dest>英雄，英雄，勇者无惧。</Dest>
+    </String>
+    <String List="2">
+      <Source>I tell you, I tell you the Dragonborn comes.</Source>
+      <Dest>我告诉你，告诉你，龙裔降临了。</Dest>
+    </String>
+    <String List="2">
+      <Source>With a voice wielding power, of the ancient Nord art!</Source>
+      <Dest>诺德技艺，龙吼回归。</Dest>
+    </String>
+    <String List="2">
+      <Source>Believe, believe the Dragonborn comes!</Source>
+      <Dest>没错，没错，他是龙裔！</Dest>
+    </String>
+    <String List="2">
+      <Source>It's an end to the evil of all Skyrim's foes!</Source>
+      <Dest>终结邪恶，敌人的末日。</Dest>
+    </String>
+    <String List="2">
+      <Source>Beware, beware, the Dragonborn comes!</Source>
+      <Dest>当心，当心，龙裔降临！</Dest>
+    </String>
+    <String List="2">
+      <Source>For the darkness has passed and the legend yet grows!</Source>
+      <Dest>黑暗消逝，传奇之曲正在编。</Dest>
+    </String>
+    <String List="2">
+      <Source>You'll know, you'll know the Dragonborn's come!</Source>
+      <Dest>你会发现，龙裔早已经立于山巅。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ba ba ba bum...</Source>
+      <Dest>吧吧吧当...</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh you are terrible. You do know that, right?</Source>
+      <Dest>Oh you are terrible. You do know that, right?</Dest>
+    </String>
+    <String List="2">
+      <Source>They'll never understand. No amount of flowers or honeyed words are going to change my mind.</Source>
+      <Dest>They'll never understand. No amount of flowers or honeyed words are going to change my mind.</Dest>
+    </String>
+    <String List="2">
+      <Source>We drink to our youth, to days come and gone; For the age of aggression is just about done.</Source>
+      <Dest>喝酒为了青春，为了我们的自尊，好日子一路狂奔！</Dest>
+    </String>
+    <String List="2">
+      <Source>We'll drive out the Stormcloaks and restore what we own; With our blood and our steel we'll take back our home.</Source>
+      <Dest>We'll drive out the Stormcloaks and restore what we own; With our blood and our steel we'll take back our home.</Dest>
+    </String>
+    <String List="2">
+      <Source>Down with Ulfric! The killer of kings!  On the day of your death we'll drink and we'll sing.</Source>
+      <Dest>乌弗瑞克这跳梁小丑！是杀害至高王的凶手！当你终于被湮灭收走，我们会欢唱会喝酒。</Dest>
+    </String>
+    <String List="2">
+      <Source>We're the children of Skyrim, and we fight all our lives; And when Sovngarde beckons, every one of us dies!</Source>
+      <Dest>我们是天际的子民，我们一辈子都在战斗，只要沉睡净土传来召唤，我们就英勇赴义。</Dest>
+    </String>
+    <String List="2">
+      <Source>But this land is ours and we'll see it wiped clean; Of the scourge that has sullied our hopes and our dreams.</Source>
+      <Dest>这片大地是我们的，洁白而干净。任何灾难只会加强我们的信念跟梦想！</Dest>
+    </String>
+    <String List="2">
+      <Source>{Lute Stop}</Source>
+      <Dest>{鲁特琴音停止}</Dest>
+    </String>
+    <String List="2">
+      <Source>I have no strong love for the Stormcloaks, but I can't say I'm all that fond of the Empire either.</Source>
+      <Dest>我对风暴斗篷没太多好感，但也说不上有多喜爱帝国。</Dest>
+    </String>
+    <String List="2">
+      <Source>To be honest, being surrounded by good music, good drink and good friends is all I've ever asked for.</Source>
+      <Dest>说实话, 被动听的音乐，诱人的食物，出生入死的好友包围曾是我想要的。</Dest>
+    </String>
+    <String List="2">
+      <Source>But there's nothing like a good song to discuss politics.  "The Age of Aggression."</Source>
+      <Dest>不过没有什么比一首好歌来谈论政事更好的了。“The Age of Aggression.”</Dest>
+    </String>
+    <String List="2">
+      <Source>Hm...Kalstar, this Civil War seemed so big, so unceasing...How do you feel?</Source>
+      <Dest>Hm...Kalstar, this Civil War seemed so big, so unceasing...How do you feel?</Dest>
+    </String>
+    <String List="2">
+      <Source>I have no complaints.</Source>
+      <Dest>我毫无怨言。</Dest>
+    </String>
+    <String List="2">
+      <Source>What's on your mind?</Source>
+      <Dest>你想谈什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>What's on your mind?</Source>
+      <Dest>什么事？</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, I did hear that the Argonians have been banned from living inside the walls of Windhelm.</Source>
+      <Dest>我听说他们禁止亚龙人住在风盔城里。</Dest>
+    </String>
+    <String List="2">
+      <Source>They're only allowed on the city docks now. Most of them sleep together in one building, and they're as poor as wretches.</Source>
+      <Dest>他们现在只能住在城市的港口，大部分人都挤在一栋建筑里，像乞丐一样贫穷。</Dest>
+    </String>
+    <String List="2">
+      <Source>Have you visited Rorikstead lately? No matter how harsh the winter, the crops that grow there never falter.</Source>
+      <Dest>你最近去过洛里斯泰德吗？不管那里的冬天有多严苛，庄稼都会长得很好。</Dest>
+    </String>
+    <String List="2">
+      <Source>Even when every other farm in the hold is barely scraping by, the harvest at Rorikstead is always bountiful.</Source>
+      <Dest>即使是冬堡的农民都没有半点收成时，洛里斯泰德的收成依然可观。</Dest>
+    </String>
+    <String List="2">
+      <Source>Is it good fortune? The blessings of the Divines? Who knows?</Source>
+      <Dest>这算宝藏？圣灵的赐福吗？谁知道呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>Now that I think on it, I did hear something rather interesting the other day.</Source>
+      <Dest>让我想想，我的确听到过更加有趣的事情。</Dest>
+    </String>
+    <String List="2">
+      <Source>Apparently, the Red Wave has been docked in Solitude for well over a month, and with no sign of shipping out any time soon.</Source>
+      <Dest>很显然，赤红波浪已经在独孤城停泊一个多月了，依然没有离港的迹象。</Dest>
+    </String>
+    <String List="2">
+      <Source>Some say the ship suffered damage to her hull when she struck an iceberg, and Captain Safia can't afford the repairs. </Source>
+      <Dest>有人说船撞上了冰山，船体受损，而萨非亚船长付不起维修费。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course, she would never admit such a thing. Captain Safia is far too proud a woman for that.</Source>
+      <Dest>当然，她永远不会承认的。萨非亚船长的骄傲不允许她承认。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, there might be nothing to it, but I've heard that the feud between the Gray-Manes and the Battle-Borns in Whiterun has grown ugly.</Source>
+      <Dest>嗯……也许没什么消息吧，但我听说雪漫城里灰鬃和战狂两家的梁子是越结越深了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fralia Gray-Mane is convinced that the Battle-Borns have abducted one of her sons.</Source>
+      <Dest>法利亚·灰鬃认为战狂氏族的人绑架了她的儿子。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm not sure that it's news, but lately it seems like every blacksmith in Skyrim is out to prove that he's the equal of Eorlund Gray-Mane.</Source>
+      <Dest>我不知道这还算不算新闻，最近好像天际所有的铁匠都想证明自己跟厄伦德·灰鬃不相上下。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's not really a fair comparison, if you ask me.</Source>
+      <Dest>要我说，这根本没有可比性。</Dest>
+    </String>
+    <String List="2">
+      <Source>After all, Eorlund works the Skyforge. How is any smith going to compete with that?</Source>
+      <Dest>厄伦德为天空熔炉工作。这点有哪个铁匠能比得上呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, I did see something interesting not long ago.</Source>
+      <Dest>我不久前就见过些有意思的事。</Dest>
+    </String>
+    <String List="2">
+      <Source>There were several Khajiit camped outside the walls of Whiterun. Seems they've been traveling around the whole of Skyrim peddling their wares.</Source>
+      <Dest>有几个虎人在雪漫城外面扎营了。他们贩卖货物的足迹遍布整个天际。</Dest>
+    </String>
+    <String List="2">
+      <Source>You've got to admire their courage, doing something like that with dragons on the loose and a war going on.</Source>
+      <Dest>你不得不佩服他们的勇气，能在有龙出没，战争横行的时候在外面闯荡。</Dest>
+    </String>
+    <String List="2">
+      <Source>I heard those mages up in Winterhold have been trying to figure out how many dragons there are in Skyrim.</Source>
+      <Dest>我听说冬堡的法师们想要统计天际究竟有多少头龙。</Dest>
+    </String>
+    <String List="2">
+      <Source>They seem to think it's at least a dozen, but I'm sure they're exaggerating.</Source>
+      <Dest>他们似乎觉得至少有一打，不过那太夸张了点。</Dest>
+    </String>
+    <String List="2">
+      <Source>They're probably trying to scare us into giving them more money and influence, so they can save us from the dragons threat.</Source>
+      <Dest>他们大概想吓唬我们，好让我们因为恐惧而交出更多的钱。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, I agree with you. Have you heard any news from the other parts of Skyrim?</Source>
+      <Dest>对，我同意。你有什么天际那边的消息吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>You speak truly. Have you heard any interesting rumors of late?</Source>
+      <Dest>如你所说，你最近听过什么有趣的传言吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>I'll not argue that. Heard any interesting gossip lately?</Source>
+      <Dest>我不否认。最近有什么八卦吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>I couldn't agree more. By the way, have you heard any interesting rumors lately?</Source>
+      <Dest>不能同意你更多了。顺便一提，你最近听过什么有趣的传言吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>I couldn't have said it better myself. It's been some time since I've had news from elsewhere in Skyrim. What have you heard?</Source>
+      <Dest>我想不出比它再好的了。我上次听到天际其他地方的消息已经是很久以前了。你听说什么了？</Dest>
+    </String>
+    <String List="2">
+      <Source>I know just what you mean. Heard anything interesting lately? Any news or gossip?</Source>
+      <Dest>我懂了。最近有什么有意思的吗？新闻或者八卦都行？</Dest>
+    </String>
+    <String List="2">
+      <Source>I hope they'll serve the roast venison with bittergreen sauce that we had at the last party.</Source>
+      <Dest>我希望他们能提供烤鹿肉和苦菜酱，就像我们上次宴会吃的那种。</Dest>
+    </String>
+    <String List="2">
+      <Source>That was delicious.</Source>
+      <Dest>那可真美味。</Dest>
+    </String>
+    <String List="2">
+      <Source>This war has taken a toll on the merchants of Skyrim. Let's hope that it ends soon, for their sake.</Source>
+      <Dest>这场战争给天际的商人带来了相当大的损失，让我们为他们祈祷，希望这场战争赶紧结束吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>With the soldiers all fighting in the war, there's nobody to hunt down the bandits. Travel has become dangerous of late.</Source>
+      <Dest>士兵都去参战了，没人去打土匪，这使得出行变得更危险了。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's been a brutal winter. I can't remember the last time it was this cold, and for this long.</Source>
+      <Dest>这个冬天真要命，我不记得还有哪个冬天有这么冷，还持续了这么久。</Dest>
+    </String>
+    <String List="2">
+      <Source>La la la la...</Source>
+      <Dest>啦啦啦啦...</Dest>
+    </String>
+    <String List="2">
+      <Source>La la la la...</Source>
+      <Dest>啦啦啦啦...</Dest>
+    </String>
+    <String List="2">
+      <Source>{End}</Source>
+      <Dest>{结束}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Lute}</Source>
+      <Dest>{鲁特琴声}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Lute}</Source>
+      <Dest>{鲁特琴声}</Dest>
+    </String>
+    <String List="2">
+      <Source>{End}</Source>
+      <Dest>{结束}</Dest>
+    </String>
+    <String List="2">
+      <Source>Alduin's wings they did darken the sky; His roar fury's fire and his scales sharpened scythes;</Source>
+      <Dest>奥杜因其翼遮天蔽日，其吼怒焰四溢，其鳞利如刀锋。</Dest>
+    </String>
+    <String List="2">
+      <Source>Men ran and they cowered and they fought and they died; They burned and they bled as they issued their cries;</Source>
+      <Dest>人类退缩、逃跑，战斗、死亡。人类受伤、流血，痛哭、哀嚎。</Dest>
+    </String>
+    <String List="2">
+      <Source>We need saviors to free us from Alduin's rage; Heroes on the field of this new war to wage;</Source>
+      <Dest>我们需要救世主将我们从奥杜因的愤怒中解放。这片大地上的英雄们要踏入新的战场上。</Dest>
+    </String>
+    <String List="2">
+      <Source>And if Alduin wins, men is gone from this world; Lost in the shadows of the black wings unfurled;</Source>
+      <Dest>奥杜因的胜利，将带来人类的灭亡，黑色双翼的阴影下无处可藏。</Dest>
+    </String>
+    <String List="2">
+      <Source>But then came the Tongues on that terrible day; Steadfast as winter they entered the fray;</Source>
+      <Dest>可怕的岁月里，发声者们加入战斗，踏着坚定的步伐，凯歌高奏。</Dest>
+    </String>
+    <String List="2">
+      <Source>And all heard the music of Alduin's doom; The sweet song of Skyrim, sky-shattering Thu'um;</Source>
+      <Dest>【原版歌词替换】奥杜因拉下了的命运之幕，那是天际的赞歌，是响彻天际的吐目。</Dest>
+    </String>
+    <String List="2">
+      <Source>And so the Tongues freed us from Alduin's rage; Gave the gift of the Voice, ushered in a new age;</Source>
+      <Dest>发声者从奥杜因的愤怒之中解救了我们，龙吼的天赐，引领我们进入新的时代。</Dest>
+    </String>
+    <String List="2">
+      <Source>If Alduin's eternal then eternity's done; For his story is over and the dragons are gone.</Source>
+      <Dest>奥杜因的永恒，已然不在。奥杜因的故事，已经终结。龙也消失于天外。</Dest>
+    </String>
+    <String List="2">
+      <Source>{Stop}</Source>
+      <Dest>{停下}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Stop}</Source>
+      <Dest>{停止}</Dest>
+    </String>
+    <String List="2">
+      <Source>Garthe, have you heard any interesting rumors of late?</Source>
+      <Dest>格斯，你听说最近的留言了么？</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute - Portraiture}</Source>
+      <Dest>{Flute - Portraiture}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Stop}</Source>
+      <Dest>{停下}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Stop}</Source>
+      <Dest>{停止}</Dest>
+    </String>
+    <String List="2">
+      <Source>Kalstar, I was thinking customers would love the opportunity to hear a quartet.</Source>
+      <Dest>卡斯达, 我在想客人会很乐意有机会听到四重奏.</Dest>
+    </String>
+    <String List="2">
+      <Source>{Idle}</Source>
+      <Dest>{呆滞}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Idle}</Source>
+      <Dest>{呆滞}</Dest>
+    </String>
+    <String List="2">
+      <Source>And all heard the music of Alduin's doom; The sweet song of Skyrim, sky-shattering Thu'um;</Source>
+      <Dest>【原版歌词替换】奥杜因拉下了的命运之幕，那是天际的赞歌，是响彻天际的吐目。</Dest>
+    </String>
+    <String List="2">
+      <Source>If Alduin's eternal then eternity's done; For his story is over and the dragons are gone.</Source>
+      <Dest>奥杜因的永恒，已然不在。奥杜因的故事，已经终结。龙也消失于天外。</Dest>
+    </String>
+    <String List="2">
+      <Source>{Stop}</Source>
+      <Dest>{停下}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Stop}</Source>
+      <Dest>{停止}</Dest>
+    </String>
+    <String List="2">
+      <Source>And so the Tongues freed us from Alduin's rage; Gave the gift of the Voice, ushered in a new age;</Source>
+      <Dest>发声者从奥杜因的愤怒之中解救了我们，龙吼的天赐，引领我们进入新的时代。</Dest>
+    </String>
+    <String List="2">
+      <Source>But then came the Tongues on that terrible day; Steadfast as winter they entered the fray;</Source>
+      <Dest>可怕的岁月里，发声者们加入战斗，踏着坚定的步伐，凯歌高奏。</Dest>
+    </String>
+    <String List="2">
+      <Source>We need saviors to free us from Alduin's rage; Heroes on the field of this new war to wage;</Source>
+      <Dest>我们需要救世主将我们从奥杜因的愤怒中解放。这片大地上的英雄们要踏入新的战场上。</Dest>
+    </String>
+    <String List="2">
+      <Source>Alduin's wings, they did darken the sky; His roar fury's fire, and his scales sharpened scythes;</Source>
+      <Dest>奥杜因的翅膀,遮天蔽日。怒吼是火焰，鳞片如刀般锋利。</Dest>
+    </String>
+    <String List="2">
+      <Source>This next song goes out to the Dragonborn.</Source>
+      <Dest>下一首歌献给龙裔。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ba ba ba bum...</Source>
+      <Dest>吧吧吧当...</Dest>
+    </String>
+    <String List="2">
+      <Source>Our hero, our hero, claims a warrior's heart!</Source>
+      <Dest>英雄，英雄，勇者无惧。</Dest>
+    </String>
+    <String List="2">
+      <Source>I tell you, I tell you the Dragonborn comes.</Source>
+      <Dest>我告诉你，告诉你，龙裔降临了。</Dest>
+    </String>
+    <String List="2">
+      <Source>With a voice wielding power, of the ancient Nord art!</Source>
+      <Dest>诺德技艺，龙吼回归。</Dest>
+    </String>
+    <String List="2">
+      <Source>Believe, believe the Dragonborn comes!</Source>
+      <Dest>没错，没错，他是龙裔！</Dest>
+    </String>
+    <String List="2">
+      <Source>It's an end to the evil of all Skyrim's foes!</Source>
+      <Dest>终结邪恶，敌人的末日。</Dest>
+    </String>
+    <String List="2">
+      <Source>Beware, beware, the Dragonborn comes!</Source>
+      <Dest>当心，当心，龙裔降临！</Dest>
+    </String>
+    <String List="2">
+      <Source>For the darkness has passed and the legend yet grows!</Source>
+      <Dest>黑暗消逝，传奇之曲正在编。</Dest>
+    </String>
+    <String List="2">
+      <Source>You'll know, you'll know the Dragonborn's come!</Source>
+      <Dest>你会发现，龙裔早已经立于山巅。</Dest>
+    </String>
+    <String List="2">
+      <Source>With a Voice wielding power of the ancient Nord art;  Believe, believe the Dragornborn comes;</Source>
+      <Dest>【歌词待校对】诺德技艺，龙吼回归。没错，没错，他是龙裔。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's an end to the evil, of all Skyrim's foes; Beware, beware the Dragonborn comes;</Source>
+      <Dest>终结邪恶，敌人的末日。当心，当心，龙裔出世。</Dest>
+    </String>
+    <String List="2">
+      <Source>Dovahkiin, Dovahkiin, naal ok zin los vahriin, wah dein vokul mahfaeraak ahst vaal!</Source>
+      <Dest>帕拉丁 帕拉丁 让他血挥洒地，何谓难 何谓苦 抛向大海百川！</Dest>
+    </String>
+    <String List="2">
+      <Source>Ahrk fin norok paal graan fod nust hon zindro zaan, Dovahkiin, fah hin kogaan mu draal!</Source>
+      <Dest>阿克 芬 诺罗 帕尔 古兰 佛 努斯 洪 金德罗 赞，都瓦克因，法 辛 克甘 姆 德阿尔</Dest>
+    </String>
+    <String List="2">
+      <Source>{Idle}</Source>
+      <Dest>{呆滞}</Dest>
+    </String>
+    <String List="2">
+      <Source>I tell you, I tell you the Dragonborn comes.</Source>
+      <Dest>我告诉你，告诉你，龙裔降临了。</Dest>
+    </String>
+    <String List="2">
+      <Source>This an ode to the Dragonborn.  A legend we all know and love.</Source>
+      <Dest>下面这首是写给龙裔的赞歌。一个我们所熟知和挚爱的传说。</Dest>
+    </String>
+    <String List="2">
+      <Source>We drink to our youth, to days come and gone; For the age of aggression is just about done.</Source>
+      <Dest>喝酒为了青春，为了我们的自尊，好日子一路狂奔！</Dest>
+    </String>
+    <String List="2">
+      <Source>We'll drive out the Stormcloaks and restore what we own; With our blood and our steel we'll take back our home.</Source>
+      <Dest>We'll drive out the Stormcloaks and restore what we own; With our blood and our steel we'll take back our home.</Dest>
+    </String>
+    <String List="2">
+      <Source>Down with Ulfric! The killer of kings!  On the day of your death we'll drink and we'll sing.</Source>
+      <Dest>乌弗瑞克这跳梁小丑！是杀害至高王的凶手！当你终于被湮灭收走，我们会欢唱会喝酒。</Dest>
+    </String>
+    <String List="2">
+      <Source>We're the children of Skyrim, and we fight all our lives; And when Sovngarde beckons, every one of us dies!</Source>
+      <Dest>我们是天际的子民，我们一辈子都在战斗，只要沉睡净土传来召唤，我们就英勇赴义。</Dest>
+    </String>
+    <String List="2">
+      <Source>But this land is ours and we'll see it wiped clean; Of the scourge that has sullied our hopes and our dreams.</Source>
+      <Dest>这片大地是我们的，洁白而干净。任何灾难只会加强我们的信念跟梦想！</Dest>
+    </String>
+    <String List="2">
+      <Source>{Lute End}</Source>
+      <Dest>{鲁特琴声落}</Dest>
+    </String>
+    <String List="2">
+      <Source>Hm...Kalstar, this Civil War seemed so big, so unceasing...How do you feel?</Source>
+      <Dest>Hm...Kalstar, this Civil War seemed so big, so unceasing...How do you feel?</Dest>
+    </String>
+    <String List="2">
+      <Source>I have no strong love for the Stormcloaks, but I can't say I'm all that fond of the Empire either.</Source>
+      <Dest>我对风暴斗篷没太多好感，但也说不上有多喜爱帝国。</Dest>
+    </String>
+    <String List="2">
+      <Source>To be honest, being surrounded by good music, good drink and good friends is all I've ever asked for.</Source>
+      <Dest>说实话, 被动听的音乐，诱人的食物，出生入死的好友包围曾是我想要的。</Dest>
+    </String>
+    <String List="2">
+      <Source>But there's nothing like a good song to discuss politics.  "The Age of Aggression."</Source>
+      <Dest>不过没有什么比一首好歌来谈论政事更好的了。“The Age of Aggression.”</Dest>
+    </String>
+    <String List="2">
+      <Source>{Drums}</Source>
+      <Dest>（打鼓）</Dest>
+    </String>
+    <String List="2">
+      <Source>{Drums}</Source>
+      <Dest>（打鼓）</Dest>
+    </String>
+    <String List="2">
+      <Source>All hail to Ulfric!</Source>
+      <Dest>向乌弗瑞克国王致敬！</Dest>
+    </String>
+    <String List="2">
+      <Source>{Drums}</Source>
+      <Dest>（打鼓）</Dest>
+    </String>
+    <String List="2">
+      <Source>{Drums}</Source>
+      <Dest>（打鼓）</Dest>
+    </String>
+    <String List="2">
+      <Source>{Drum Stop}</Source>
+      <Dest>{打鼓停止}</Dest>
+    </String>
+    <String List="2">
+      <Source>To be honest, being surrounded by good music, good drink, and good friends is all I've ever asked for.</Source>
+      <Dest>老实说，徜徉在音乐的海洋，伸手就是美酒，周围有挚友相伴，这就是我所想要的全部了啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>But, there's nothing like a good song to discuss politics.  "The Age of Oppression."</Source>
+      <Dest>但是好像没什么好歌会去论述政治。“压迫年代。”</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute Stop}</Source>
+      <Dest>{笛声停止}</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, a fine but bloody tale.  We can do that one.</Source>
+      <Dest>啊，一个美丽又凄惨的故事。我会唱。</Dest>
+    </String>
+    <String List="2">
+      <Source>{Idle}</Source>
+      <Dest>{呆滞}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Idle}</Source>
+      <Dest>{呆滞}</Dest>
+    </String>
+    <String List="2">
+      <Source>If Alduin's eternal then eternity's done; For his story is over and the dragons are gone.</Source>
+      <Dest>奥杜因的永恒，已然不在。奥杜因的故事，已经终结。龙也消失于天外。</Dest>
+    </String>
+    <String List="2">
+      <Source>{Stop}</Source>
+      <Dest>{停下}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Stop}</Source>
+      <Dest>{停止}</Dest>
+    </String>
+    <String List="2">
+      <Source>And so the Tongues freed us from Alduin's rage; Gave the gift of the Voice, ushered in a new age;</Source>
+      <Dest>发声者从奥杜因的愤怒之中解救了我们，龙吼的天赐，引领我们进入新的时代。</Dest>
+    </String>
+    <String List="2">
+      <Source>And all heard the music of Alduin's doom; The sweet song of Skyrim, sky-shattering Thu'um;</Source>
+      <Dest>【原版歌词替换】奥杜因拉下了的命运之幕，那是天际的赞歌，是响彻天际的吐目。</Dest>
+    </String>
+    <String List="2">
+      <Source>We need saviors to free us from Alduin's rage; Heroes on the field of this new war to wage;</Source>
+      <Dest>我们需要救世主将我们从奥杜因的愤怒中解放。这片大地上的英雄们要踏入新的战场上。</Dest>
+    </String>
+    <String List="2">
+      <Source>But then came the Tongues on that terrible day; Steadfast as winter they entered the fray;</Source>
+      <Dest>可怕的岁月里，发声者们加入战斗，踏着坚定的步伐，凯歌高奏。</Dest>
+    </String>
+    <String List="2">
+      <Source>Alduin's wings, they did darken the sky; His roar fury's fire, and his scales sharpened scythes;</Source>
+      <Dest>奥杜因的翅膀,遮天蔽日。怒吼是火焰，鳞片如刀般锋利。</Dest>
+    </String>
+    <String List="2">
+      <Source>This next song goes out to the Dragonborn.</Source>
+      <Dest>下一首歌献给龙裔。</Dest>
+    </String>
+    <String List="2">
+      <Source>Alduin's wings they did darken the sky; His roar fury's fire and his scales sharpened scythes;</Source>
+      <Dest>奥杜因其翼遮天蔽日，其吼怒焰四溢，其鳞利如刀锋。</Dest>
+    </String>
+    <String List="2">
+      <Source>Men ran and they cowered and they fought and they died; They burned and they bled as they issued their cries;</Source>
+      <Dest>人类退缩、逃跑，战斗、死亡。人类受伤、流血，痛哭、哀嚎。</Dest>
+    </String>
+    <String List="2">
+      <Source>We need saviors to free us from Alduin's rage; Heroes on the field of this new war to wage;</Source>
+      <Dest>我们需要救世主将我们从奥杜因的愤怒中解放。这片大地上的英雄们要踏入新的战场上。</Dest>
+    </String>
+    <String List="2">
+      <Source>And if Alduin wins, men is gone from this world; Lost in the shadows of the black wings unfurled;</Source>
+      <Dest>奥杜因的胜利，将带来人类的灭亡，黑色双翼的阴影下无处可藏。</Dest>
+    </String>
+    <String List="2">
+      <Source>But then came the Tongues on that terrible day; Steadfast as winter they entered the fray;</Source>
+      <Dest>可怕的岁月里，发声者们加入战斗，踏着坚定的步伐，凯歌高奏。</Dest>
+    </String>
+    <String List="2">
+      <Source>And all heard the music of Alduin's doom; The sweet song of Skyrim, sky-shattering Thu'um;</Source>
+      <Dest>【原版歌词替换】奥杜因拉下了的命运之幕，那是天际的赞歌，是响彻天际的吐目。</Dest>
+    </String>
+    <String List="2">
+      <Source>And so the Tongues freed us from Alduin's rage; Gave the gift of the Voice, ushered in a new age;</Source>
+      <Dest>发声者从奥杜因的愤怒之中解救了我们，龙吼的天赐，引领我们进入新的时代。</Dest>
+    </String>
+    <String List="2">
+      <Source>If Alduin's eternal then eternity's done; For his story is over and the dragons are gone.</Source>
+      <Dest>奥杜因的永恒，已然不在。奥杜因的故事，已经终结。龙也消失于天外。</Dest>
+    </String>
+    <String List="2">
+      <Source>(End song)</Source>
+      <Dest>（结束歌曲）</Dest>
+    </String>
+    <String List="2">
+      <Source>(End song)</Source>
+      <Dest>(歌曲结束)</Dest>
+    </String>
+    <String List="2">
+      <Source>Garthe, have you heard any interesting rumors of late?</Source>
+      <Dest>格斯，你听说最近的留言了么？</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>Dum dum di di di di dum....</Source>
+      <Dest>当当叮叮叮叮当....</Dest>
+    </String>
+    <String List="2">
+      <Source>Dum dum di di di dum dum dum...</Source>
+      <Dest>当当叮叮叮当当当...</Dest>
+    </String>
+    <String List="2">
+      <Source>{Drums}</Source>
+      <Dest>（打鼓）</Dest>
+    </String>
+    <String List="2">
+      <Source>{Drums}</Source>
+      <Dest>（打鼓）</Dest>
+    </String>
+    <String List="2">
+      <Source>{Drums}</Source>
+      <Dest>（打鼓）</Dest>
+    </String>
+    <String List="2">
+      <Source>{Drums}</Source>
+      <Dest>（打鼓）</Dest>
+    </String>
+    <String List="2">
+      <Source>{Drums}</Source>
+      <Dest>（打鼓）</Dest>
+    </String>
+    <String List="2">
+      <Source>{Drums}</Source>
+      <Dest>（打鼓）</Dest>
+    </String>
+    <String List="2">
+      <Source>{Drums Stop}</Source>
+      <Dest>{鼓声停止}</Dest>
+    </String>
+    <String List="2">
+      <Source>To be honest, being surrounded by good music, good drink, and good friends is all I've ever asked for.</Source>
+      <Dest>老实说，徜徉在音乐的海洋，伸手就是美酒，周围有挚友相伴，这就是我所想要的全部了啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>But, there's nothing like a good song to discuss politics.  "The Age of Oppression."</Source>
+      <Dest>但是好像没什么好歌会去论述政治。“压迫年代。”</Dest>
+    </String>
+    <String List="2">
+      <Source>{Stop}</Source>
+      <Dest>{停下}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Stop}</Source>
+      <Dest>{停止}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>Kalstar, I was thinking customers would love the opportunity to hear a quartet.</Source>
+      <Dest>卡斯达, 我在想客人会很乐意有机会听到四重奏.</Dest>
+    </String>
+    <String List="2">
+      <Source>Hey there friend. If you're looking for a fix, then you're at the right place.</Source>
+      <Dest>嘿,朋友.如果你正在寻找一个合适的解决方法, 那么你就来对地方了.</Dest>
+    </String>
+    <String List="2">
+      <Source>You seem tense. Join a booth and relax a bit. Or did you need another fix?</Source>
+      <Dest>你看起来很僵硬。选一个包厢，放轻松点吧。还是你还要再来点乐子？</Dest>
+    </String>
+    <String List="2">
+      <Source>With a Voice wielding power of the ancient Nord art;  Believe, believe the Dragornborn comes;</Source>
+      <Dest>【歌词待校对】诺德技艺，龙吼回归。没错，没错，他是龙裔。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's an end to the evil, of all Skyrim's foes; Beware, beware the Dragonborn comes;</Source>
+      <Dest>终结邪恶，敌人的末日。当心，当心，龙裔出世。</Dest>
+    </String>
+    <String List="2">
+      <Source>Dovahkiin, Dovahkiin, naal ok zin los vahriin, wah dein vokul mahfaeraak ahst vaal!</Source>
+      <Dest>帕拉丁 帕拉丁 让他血挥洒地，何谓难 何谓苦 抛向大海百川！</Dest>
+    </String>
+    <String List="2">
+      <Source>Ahrk fin norok paal graan fod nust hon zindro zaan, Dovahkiin, fah hin kogaan mu draal!</Source>
+      <Dest>阿克 芬 诺罗 帕尔 古兰 佛 努斯 洪 金德罗 赞，都瓦克因，法 辛 克甘 姆 德阿尔</Dest>
+    </String>
+    <String List="2">
+      <Source>I tell you, I tell you the Dragonborn comes.</Source>
+      <Dest>我告诉你，告诉你，龙裔降临了。</Dest>
+    </String>
+    <String List="2">
+      <Source>This an ode to the Dragonborn.  A legend we all know and love.</Source>
+      <Dest>下面这首是写给龙裔的赞歌。一个我们所熟知和挚爱的传说。</Dest>
+    </String>
+    <String List="0">
+      <Source>Here's your bread for the day.</Source>
+      <Dest>这是你一天的伙食。</Dest>
+    </String>
+    <String List="2">
+      <Source>Thank you.</Source>
+      <Dest>谢谢。</Dest>
+    </String>
+    <String List="2">
+      <Source>{End}</Source>
+      <Dest>{结束}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Lute}</Source>
+      <Dest>{鲁特琴声}</Dest>
+    </String>
+    <String List="2">
+      <Source>{End}</Source>
+      <Dest>{结束}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Lute}</Source>
+      <Dest>{鲁特琴声}</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, a fine but bloody tale.  We can do that one.</Source>
+      <Dest>啊，一个美丽又凄惨的故事。我会唱。</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute Stop}</Source>
+      <Dest>{笛声停止}</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh! What happened?</Source>
+      <Dest>哦！发生了什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>I suppose so, yes.</Source>
+      <Dest>我想是的。</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

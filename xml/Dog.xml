@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="2">
+      <Source>(Whimpers)</Source>
+      <Dest>（低吠）</Dest>
+    </String>
+    <String List="2">
+      <Source>(Barks twice)</Source>
+      <Dest>（叫两声）</Dest>
+    </String>
+    <String List="2">
+      <Source>(Barks once)</Source>
+      <Dest>（叫一声）</Dest>
+    </String>
+    <String List="2">
+      <Source>Woof!</Source>
+      <Dest>汪！</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="2">
+      <Source>People should keep to themselves. Skyrim hasn't always been kind, my love.</Source>
+      <Dest>人们应该保持自我。天际省的人并非总是如此友善的，亲爱的。</Dest>
+    </String>
+    <String List="2">
+      <Source>That would be mother.</Source>
+      <Dest>那会是母亲。</Dest>
+    </String>
+    <String List="2">
+      <Source>Malacath teaches us to meet our fate, and I cannot protect you if you murder us.</Source>
+      <Dest>玛拉卡斯教导我们直面命运。如果你害死我们所有人的话，我就不能护着你了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fine. It's your neck.</Source>
+      <Dest>好极了。这是你的脖子。</Dest>
+    </String>
+    <String List="2">
+      <Source>You may not be one of our tribe, but you're an Orc nonetheless. Why? Why have you done this to us?</Source>
+      <Dest>你也许不是我们部落的一份子，但是毕竟你是个兽人。为什么？为什么对我们做出这样的事？</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>That was mother, dear.</Source>
+      <Dest>那是妈妈，亲爱的。</Dest>
+    </String>
+    <String List="0">
+      <Source>You have an odd name for an Orc.</Source>
+      <Dest>你有一个奇怪的兽人名字。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ice-Eye is my fa-...I mean my husband's name.  Talk to him.</Source>
+      <Dest>冰眼是我父……我是说我丈夫。你和他谈谈吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>That wasn't what I meant.</Source>
+      <Dest>我不是这个意思。</Dest>
+    </String>
+    <String List="2">
+      <Source>That Nord told me "This land is not for your kind."  We can't dally this time.  He's crazy.</Source>
+      <Dest>这个诺德人告诉我“这片土地不适合你。”我们现在没法再浪费时间了。他疯了。</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

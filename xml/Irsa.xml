@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="0">
+      <Source>Any news or rumors floating about?</Source>
+      <Dest>有什么流言蜚语说来听听？</Dest>
+    </String>
+    <String List="2">
+      <Source>Here. Take a look at this.</Source>
+      <Dest>在这儿。看看这个。</Dest>
+    </String>
+    <String List="0">
+      <Source>Any news or rumors floating about?</Source>
+      <Dest>有什么流言蜚语说来听听？</Dest>
+    </String>
+    <String List="2">
+      <Source>Here. Take a look at this.</Source>
+      <Dest>在这儿。看看这个。</Dest>
+    </String>
+    <String List="0">
+      <Source>Any news or rumors floating about?</Source>
+      <Dest>有什么流言蜚语说来听听？</Dest>
+    </String>
+    <String List="2">
+      <Source>Here. Take a look at this.</Source>
+      <Dest>在这儿。看看这个。</Dest>
+    </String>
+    <String List="0">
+      <Source>I've opened a tavern for wanderers in the Rift. I'd like to sell spiced wine.</Source>
+      <Dest>我在裂痕领给那些流浪汉开了家酒馆儿。我想卖点儿香料酒。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's great. I owe you one. Thanks.</Source>
+      <Dest>太好了。我欠你一个人情。谢谢。</Dest>
+    </String>
+    <String List="0">
+      <Source>Have you seen Asteria around here?</Source>
+      <Dest>你在附近看到阿斯特里亚了吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Yeah, she was here, but she left. If you leave now you can probably catch her.</Source>
+      <Dest>对，她之前是在这，不过她离开了。你要是现在走的话应该能赶上她。</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

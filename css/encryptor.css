@@ -1,0 +1,54 @@
+.menu {
+    border: 1px dashed gray;
+    width: 800px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    text-align: center;
+}
+ 
+.main {
+    border: 1px dashed gray;
+    width: 800px;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+}
+ 
+.display {
+    border: 1px dashed gray;
+    width: 800px;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+}
+ 
+input {
+    margin: 2px;
+}
+ 
+/* 《程式語言教學誌》的範例程式
+    http://pydoing.blogspot.com/
+    檔名：encryptor.css
+    功能：示範 PHP 程式
+    作者：張凱慶
+    時間：西元 2012 年 11 月 */
+.option {
+        border:1px solid #8bccb0;
+        width:123px;
+        height:18px;
+        clip:rect(0px,18px,22px,0px);
+        overflow:hidden;
+    }
+	.submit {
+        border:1px solid #8bccb0;
+        width:200px;
+        height:18px;
+        clip:rect(0px,18px,22px,0px);
+        overflow:hidden;
+    }
+ 
+#div1{ display:none; font-size:12px; line-height:18px; border:0px solid #e1e3e2; width:250; height:50; padding: 5px; }
